@@ -26,3 +26,32 @@ It explores how *Profit and Loss (PnL)*, *leverage usage*, and *risk-taking patt
 ---
 
 ## 🗂️ Repository Structure
+trader-behavior-insights/
+│
+├── README.md
+├── requirements.txt
+├── data/
+│ ├── historical_data.csv
+│ └── fear_greed_index.csv
+│
+├── notebooks/
+│ └── ds_Pommala_Pratheep_notebook_1.ipynb
+│
+├── scripts/
+│ └── data_analysis.py
+│
+├── results/
+│ ├── plots/
+│ └── reports/
+│
+└── LICENSE
+
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/Pratheep2000/Trader-Behavior-Insights-vs-Fear-Greed-Sentiment.git
+cd Trader-Behavior-Insights-vs-Fear-Greed-Sentiment
+pip install -r requirements.txt
